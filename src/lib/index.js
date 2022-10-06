@@ -1,2 +1,3 @@
 import Button from './components/Button';
-export {Button };
+import Macha from './components/Macha';
+export {Button, Macha };
